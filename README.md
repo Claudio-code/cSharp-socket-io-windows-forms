@@ -1,2 +1,6 @@
-# cSharp-socket-io-windows-forms
-testando o socket io com o c# para se conectar com uma api em nodejs
+<h1 align="center">
+  c# com o socket io
+</h1>
+
+### :scroll: Objetivo
+- Implementar a biblioteca do <b>SocketIoClientDotNet</b> para conversar com apis nodejs no servidor.
