@@ -1,0 +1,16 @@
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\bin\Debug\socketForms.exe.config
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\bin\Debug\socketForms.exe
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\bin\Debug\socketForms.pdb
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\bin\Debug\WebSocket4Net.dll
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\obj\Debug\socketForms.csprojAssemblyReference.cache
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\obj\Debug\socketForms.Form1.resources
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\obj\Debug\socketForms.Properties.Resources.resources
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\obj\Debug\socketForms.csproj.GenerateResource.cache
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\obj\Debug\socketForms.csproj.CoreCompileInputs.cache
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\obj\Debug\socketForms.csproj.CopyComplete
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\obj\Debug\socketForms.exe
+C:\Users\supor\Documents\cSharp-socket-io-windows-forms\socketForms\socketForms\obj\Debug\socketForms.pdb

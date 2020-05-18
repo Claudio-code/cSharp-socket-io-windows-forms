@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socketForms", "socketForms\socketForms.csproj", "{42030737-D3F1-4A44-A865-388713ACBF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42030737-D3F1-4A44-A865-388713ACBF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42030737-D3F1-4A44-A865-388713ACBF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42030737-D3F1-4A44-A865-388713ACBF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42030737-D3F1-4A44-A865-388713ACBF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1953D27-B4DE-44E9-A538-BC3F44E7108B}
+	EndGlobalSection
+EndGlobal
