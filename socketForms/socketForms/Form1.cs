@@ -43,6 +43,17 @@ namespace socketForms
             // com o id da conversa você está participando
             var chatId = "49c3e4c0-9936-11ea-b8a9-5b7fcb8fc688";
             var mensagemss = new { texto = "", chatId = "" };
+            
+            
+            socket.On("leadsOnline", (lead) => 
+            {
+                Console.WriteLine(lead);
+            });
+
+            socket.On("usuariosOnline", (usuarios) => 
+            {
+                Console.WriteLine(usuarios);
+            });
 
             // esse é o evento que fica escutando as respostas do chat
             socket.On("chegouMensagem-chat", (mensagem) => 
