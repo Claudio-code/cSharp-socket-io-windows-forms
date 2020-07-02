@@ -44,10 +44,14 @@ namespace socketForms
             var chatId = "49c3e4c0-9936-11ea-b8a9-5b7fcb8fc688";
             var mensagemss = new { texto = "", chatId = "" };
             
-            
-            socket.On("leadsOnline", (lead) => 
+            socket.On("leadsOnline", (leads) => 
             {
-                Console.WriteLine(lead);
+                Console.WriteLine(leads);
+            });
+            
+            socket.On("digitando-chat-" + chatId, (leads) => 
+            {
+                Console.WriteLine(leads);
             });
 
             socket.On("usuariosOnline", (usuarios) => 
