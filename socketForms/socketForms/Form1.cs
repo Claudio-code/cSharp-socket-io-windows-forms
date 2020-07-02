@@ -20,15 +20,20 @@ namespace socketForms
         private void socketIoManager()
         {
             // aqui ficam as configurações que nós definimos no back-end
+
             // nada de mais, mas sem elas não tem como fazer a conexão
+
             var option = new IO.Options() {
                 Path = "/socket/",
                 AutoConnect = true,
             };
 
             // aqui vc instancia o soket passando as configurações
+            
             // com essa instancia vc consegue escutar as conexões e mandar informacoes
+            
             // aqui vc coloca o endereço da api
+            
             var socket = IO.Socket("http://localhost:0000", option);
 
             // esse evento só checa se a conexao foi feita
